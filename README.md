@@ -12,3 +12,5 @@ It's in very early stages considering this is very much a learning project
 ### Currently only supports 2x1 screens with Redstone I/O and manual configuration
 
 ##### Maybe It'll get useful for someone though
+
+![alt text](https://raw.githubusercontent.com/XxYeetusMinecraftxX/SMMD/main/image.png)
